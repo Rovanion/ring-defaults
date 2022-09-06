@@ -1,10 +1,10 @@
-(defproject ring/ring-defaults "0.3.3"
+(defproject ring/ring-defaults "0.3.4"
   :description "Ring middleware that provides sensible defaults"
   :url "https://github.com/ring-clojure/ring-defaults"
   :license {:name "The MIT License"
             :url  "http://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.7.0"]
-                 [ring/ring-core "1.9.3"]
+                 [ring/ring-core "1.9.5"]
                  [ring/ring-ssl "0.3.0"]
                  [ring/ring-headers "0.3.0"]
                  [ring/ring-anti-forgery "1.3.0"]
